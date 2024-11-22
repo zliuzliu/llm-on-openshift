@@ -14,7 +14,7 @@ spec:
   source:
     path: llm-servers/vllm/gpu/gitops
     repoURL: >-
-      https://github.com/rh-aiservices-bu/llm-on-openshift
+      https://github.com/zliuzliu/llm-on-openshift
     targetRevision: main
   syncPolicy:
     automated:
