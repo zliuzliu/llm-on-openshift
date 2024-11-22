@@ -24,7 +24,7 @@ spec:
         - resources:
             limits:
               cpu: '4'
-              memory: 12Gi
+              memory: 8Gi
               nvidia.com/gpu: '1'
             requests:
               cpu: '2'
